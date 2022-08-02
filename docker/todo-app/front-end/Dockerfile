@@ -1,6 +1,6 @@
 FROM node:14
 
-WORKDIR /todoapp/backend
+WORKDIR /
 
 EXPOSE 3000
 
