@@ -1,1 +1,1 @@
-rocker rm -f 01cont
+docker rm  -f 01cont
