@@ -24,3 +24,4 @@ services:
       - todofront
     environment:
       - FRONT_HOST=todofront
+      - FRONT_PORT=3000
